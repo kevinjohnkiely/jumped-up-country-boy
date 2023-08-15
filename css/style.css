@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, Garamond, serif;
+  font-size: 14px;
+  background-color: #ccc;
+}
+
+.page-holder {
+    background-color: white;
+    margin-top: 2rem;
+}
