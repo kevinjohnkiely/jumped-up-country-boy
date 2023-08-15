@@ -1,0 +1,1 @@
+Bootstrap website for artist Tom Fox (1966 - 2010)
