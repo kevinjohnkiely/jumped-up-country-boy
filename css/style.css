@@ -8,6 +8,25 @@ body {
 }
 
 .page-holder {
-    background-color: white;
-    margin-top: 2rem;
+  background-color: white;
+  margin-top: 2rem;
+}
+
+.navbar {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#menu a {
+  padding: 1.5rem;
+}
+
+.nav-link {
+  margin-left: 2rem;
+}
+
+#menu a:hover {
+  background-color: #666;
+  color: white;
 }
