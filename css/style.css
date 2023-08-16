@@ -36,6 +36,32 @@ body {
   color: white;
 }
 
+.active {
+  background-color: #c6c6c6;
+}
+
+.main-page-content {
+  padding: 4rem;
+  color: #666;
+}
+
+.news-post {
+  margin-bottom: 4.5rem;
+}
+
+.news-post a {
+  color: #666;
+}
+
+.news-post a:hover {
+  color: #c6c6c6;
+}
+
+.page-h1 {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
 footer {
   background-color: #ccc;
   padding: 3rem;
