@@ -72,6 +72,12 @@ body {
   right: 70%;
 }
 
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: #666;
+  border-radius: 50%;
+  padding: 1rem;
+}
+
 footer {
   background-color: #ccc;
   padding: 3rem;
