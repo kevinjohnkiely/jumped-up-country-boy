@@ -62,6 +62,16 @@ body {
   text-align: center;
 }
 
+.carousel-caption {
+  background-color: rgb(255, 255, 255);
+  color: #666;
+  border: 2px solid #666;
+  position: absolute;
+  left: 2rem;
+  bottom: 2rem;
+  right: 70%;
+}
+
 footer {
   background-color: #ccc;
   padding: 3rem;
