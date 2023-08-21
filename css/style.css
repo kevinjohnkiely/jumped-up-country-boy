@@ -78,6 +78,23 @@ body {
   padding: 1rem;
 }
 
+.comment {
+  margin-bottom: 2rem;
+  padding: 2rem;
+  border: 1px dashed #666;
+  background-color: #ebebeb;
+}
+
+.comment-content {
+  font-style: italic;
+  font-size: larger;
+}
+
+.commenter {
+  text-align: right;
+  text-transform: uppercase;
+}
+
 footer {
   background-color: #ccc;
   padding: 3rem;
